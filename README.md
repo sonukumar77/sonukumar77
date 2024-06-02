@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **sonukumarhzb77@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1mJ6-2WZwKlMIbjp96tvfWaosIP3lGWu4/view](https://drive.google.com/file/d/1mJ6-2WZwKlMIbjp96tvfWaosIP3lGWu4/view)
+- 📄 Know about my experiences [https://www.linkedin.com/in/sonukumar77/overlay/1717354162216/single-media-viewer/?profileId=ACoAAC8AMZ0B6XsDmNHcMHQeNl4HYPKVa3762UA)
 
 - ⚡ Fun fact **I am self Motivated**
 
