@@ -5,19 +5,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sonukumar77" alt="sonukumar77" /></a> </p>
 
-- 🔭 I’m currently working in **Conitor Software Pvt. Ltd.**
-
-- 🌱 I’m currently learning **MERN Stack Developement**
+- 🔭 I’m currently working at ** Dehaat(Green Agrevolution Pvt. Ltd.)**
+- 🔭 I Worked 2.5+ years  at ** Conitor Software Pvt. Ltd.)**
+- 🌱 I Completed **MERN Stack Developement** from Geekster.
 
 - 👨‍💻 All of my projects are available at [https://sonu-react-portfolio.netlify.app/](https://sonu-react-portfolio.netlify.app/)
 
-- 💬 Ask me about **React,Node,ExpressJS,MySQL,MongoDB**
+- 💬 Ask me about **NextJs,ReactJs,Javascript,Typescript,NodeJs,PHP,ExpressJs,MySQL,MongoDB**
 
 - 📫 How to reach me **sonukumarhzb77@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/sonukumar77/overlay/1717354162216/single-media-viewer/?profileId=ACoAAC8AMZ0B6XsDmNHcMHQeNl4HYPKVa3762UA)
 
-- ⚡ Fun fact **I am self Motivated**
+- ⚡ Fun fact **I am self Motivated and ability adapt environment quickly.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
