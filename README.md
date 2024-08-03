@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://sonu-react-portfolio.netlify.app/](https://sonu-react-portfolio.netlify.app/)
 
-- 💬 Ask me about **NextJs,ReactJs,Javascript,Typescript,NodeJs,PHP,ExpressJs,MySQL,MongoDB**
+- 💬 Ask me about **NextJs,ReactJs,Javascript,Typescript,Tailwind CSS,Material UI,Ant Design,Bootstrap,NodeJs,PHP,ExpressJs,MySQL,MongoDB**
 
 - 📫 How to reach me **sonukumarhzb77@gmail.com**
 
